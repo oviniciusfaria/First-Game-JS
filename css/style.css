@@ -1,0 +1,4 @@
+#canvas{border: 1px solid #000;position: relative;float: left;}
+#buttonPlay{background: url('../img/buttonPlay.png'); width:253px; height: 114px;  display: block; position: absolute; top: 200px; left: 350px;}
+#instrucao{font-family:'Lato', sans-serif; font-weight: 700; background: #fcb836; padding: 50px 25px; float: left; display: block;position: absolute; top: 100px; left: 250px; color: #333; text-transform: uppercase; text-align: center; border-radius: 5px; font-size: 1.4em}
+.mark{font-weight: 700; background: orange;}
